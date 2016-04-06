@@ -1,4 +1,4 @@
-{
+module.exports = {
   "devtools": {
     "devedition": {
       "promo": {
@@ -134,6 +134,10 @@
         "type": 128
       },
       "promise": {
+        "value": false,
+        "type": 128
+      },
+      "auto-pretty-print": {
         "value": false,
         "type": 128
       }
